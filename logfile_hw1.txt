@@ -1,0 +1,11 @@
+08-13 14:47:26.039 6565-6565/ass1try.com.assignment1try D/Demo: method called is OnCreate
+08-13 14:47:26.060 6565-6565/ass1try.com.assignment1try D/Demo: method called is OnStart
+08-13 14:47:26.065 6565-6565/ass1try.com.assignment1try D/Demo: method called is OnResume
+08-13 14:47:33.033 6565-6565/ass1try.com.assignment1try D/Demo: Button Clicked
+08-13 14:47:33.061 6565-6565/ass1try.com.assignment1try D/Demo: method called is OnPause
+08-13 14:47:33.801 6565-6565/ass1try.com.assignment1try D/Demo: method called is OnStop
+08-13 14:47:40.431 6565-6565/ass1try.com.assignment1try D/Demo: method called is OnStart
+08-13 14:47:40.438 6565-6565/ass1try.com.assignment1try D/Demo: method called is OnResume
+08-13 14:47:45.149 6565-6565/ass1try.com.assignment1try D/Demo: method called is OnPause
+08-13 14:47:45.594 6565-6565/ass1try.com.assignment1try D/Demo: method called is OnStop
+08-13 14:47:45.606 6565-6565/ass1try.com.assignment1try D/Demo: method called is OnDestroy
